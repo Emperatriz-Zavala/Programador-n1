@@ -3,3 +3,6 @@ Manzanas
 Huevos
 Galletitas
 Dulces
+pan
+facturas
+frutillas
