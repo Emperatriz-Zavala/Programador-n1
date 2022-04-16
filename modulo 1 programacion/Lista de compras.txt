@@ -1,7 +1,4 @@
-Bananas
-Manzanas
-Huevos
-Galletitas
+
 Dulces
 pan
 facturas
